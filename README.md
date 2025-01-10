@@ -84,7 +84,7 @@ patches:
 https://github.com/UtkarshVerma/dwmblocks-async
 
 this implementation of status bar allows for signaling
-rather than refreshing vertain "icons" (strings) x seconds
+rather than refreshing certain status bar "icons" (strings) x seconds
 and it also adds clickability to them
 
 see my statusbar folder in scripts repo
